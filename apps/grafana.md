@@ -1,0 +1,20 @@
+# Grafana - The open source analytics & monitoring solution for every database
+
+## Installation
+
+```yaml
+
+volumes:
+  grafana-data:
+    driver: local
+services:
+  grafana:
+    image: grafana/grafana-oss:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana-data:/var/lib/grafana
+    restart: unless-stopped
+
+```
