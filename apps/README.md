@@ -25,11 +25,11 @@
 
 *Tools for automation, orchestration, deployment, provisioning and configuration management.*
 
-- Ansible - Simple IT automation platform that makes your applications and systems easier to deploy.
-- Salt - Automate the management and configuration of any infrastructure or application at scale.
-- Chef - Automate infrastructure and applications.
-- Terraform - use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.
-- Score - Open Source developer-centric and platform-agnostic workload specification.
+- Ansible | Simple IT automation platform that makes your applications and systems easier to deploy.
+- Salt | Automate the management and configuration of any infrastructure or application at scale.
+- Chef | Automate infrastructure and applications.
+- Terraform | use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.
+- Score | Open Source developer-centric and platform-agnostic workload specification.
 
 ## Docker
 
@@ -45,7 +45,7 @@
   - MySQL | Open-source relational database management system.
 
 - Non-relational (NoSQL)
-  - MongoDb
+  - MongoDb | General purpose, document-based, distributed database built for modern applications.
   - [Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
   - [InfluxDB](influxdb.md) | InfluxDB is an open source time series database for recording metrics, events, and analytics.
   - Key-Value
@@ -61,8 +61,8 @@
 ## Distributed messaging
 
 - [RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
-- Kafka - Building real-time data pipelines and streaming apps.
-- Activemq - Multi-Protocol messaging.
+- Kafka | Building real-time data pipelines and streaming apps.
+- Activemq | Multi-Protocol messaging.
 
 ## Observability & Monitoring
 
@@ -72,9 +72,9 @@
   - [Seq](seq.md) | The self-hosted search, analysis, and alerting server
 - Status
   - [Uptime Kuma](uptime-kuma.md) | Uptime Kuma is an easy-to-use self-hosted monitoring tool.
-  - Instatus - Quick and beautiful status page.
-  - StatusPal - Communicate incidents and maintenance effectively with a beautiful hosted status page.
-  - Cachet - Beautiful and powerful open source status page system.
+  - Instatus | Quick and beautiful status page.
+  - StatusPal | Communicate incidents and maintenance effectively with a beautiful hosted status page.
+  - Cachet | Beautiful and powerful open source status page system.
 
 ## Networks
 
@@ -107,49 +107,49 @@
 
 *API Gateway, Service Proxy and Service Management tools.*
 
-- Traefik - Reverse proxy and load balancer for HTTP and TCP-based applications.
-- Envoy - Cloud-native high-performance edge/middle/service proxy.
-- API Umbrella - Proxy that sits in front of your APIs, API management platform.
-- Gloo - Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway.
+- Traefik | Reverse proxy and load balancer for HTTP and TCP-based applications.
+- Envoy | Cloud-native high-performance edge/middle/service proxy.
+- API Umbrella | Proxy that sits in front of your APIs, API management platform.
+- Gloo | Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway.
 
 ## Chat and ChatOps
 
-- Rocket - Open source team communication.
-- Mattermost - Messaging platform that enables secure team collaboration.
+- Rocket | Open source team communication.
+- Mattermost | Messaging platform that enables secure team collaboration.
 - ChatOps
-  - CloudBot - Simple, fast, expandable, open-source Python IRC Bot.
-  - Hubot - A customizable life embetterment robot.
+  - CloudBot | Simple, fast, expandable, open-source Python IRC Bot.
+  - Hubot | A customizable life embetterment robot.
 
 ## Secret Management
 
 *Security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.*
 
-- Vault - Manage secrets and protect sensitive data.
-- Sops - Simple and flexible tool for managing secrets.
+- Vault | Manage secrets and protect sensitive data.
+- Sops | Simple and flexible tool for managing secrets.
 - Keybase - End-to-end encrypted chat and cloud storage system.
-- Git Secret - A bash-tool to store your private data inside a git repository.
+- Git Secret | A bash-tool to store your private data inside a git repository.
 
 ## Sharing
 
 *A collection of tools to help with sharing knowledge and telling the story.*
 
-- Gitbook - Modern documentation format and toolchain using Git and Markdown.
-- Docusaurus - Easy to maintain open source documentation websites.
-- Docsify - A magical documentation site generator.
-- MkDocs - Project documentation with Markdown.
+- Gitbook | Modern documentation format and toolchain using Git and Markdown.
+- Docusaurus | Easy to maintain open source documentation websites.
+- Docsify | A magical documentation site generator.
+- MkDocs | Project documentation with Markdown.
 
 ## VPN
 
-- OpenVPN - Flexible VPN solutions to secure your data communications, whether it's for Internet privacy.
-- Pritunl - Enterprise Distributed OpenVPN and IPsec Server.
+- OpenVPN | Flexible VPN solutions to secure your data communications, whether it's for Internet privacy.
+- Pritunl | Enterprise Distributed OpenVPN and IPsec Server.
 
 ## SSL
 
 *Tools for automating the management of SSL certificates.*
 
-- Certbot - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
-- Let’s Encrypt - Free, automated, and open Certificate Authority.
-- Cert Manager - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.
+- Certbot | Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
+- Let’s Encrypt | Free, automated, and open Certificate Authority.
+- Cert Manager | K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.
 
 ## Resources
 
