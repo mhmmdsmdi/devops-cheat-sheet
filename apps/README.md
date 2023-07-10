@@ -1,5 +1,18 @@
 # Applications
 
+- [Applications](#applications)
+  - [Docker](#docker)
+  - [Databases](#databases)
+  - [Documentation and Wiki](#documentation-and-wiki)
+  - [Log Managers](#log-managers)
+  - [Messaging Queues](#messaging-queues)
+  - [Monitoring Systems](#monitoring-systems)
+  - [Networks](#networks)
+  - [Clouds](#clouds)
+  - [Dashboards](#dashboards)
+  - [Security](#security)
+  - [CMS](#cms)
+
 ## Docker
 
 [Portainer](portainer.md) | GUI for kubernates and docker
@@ -32,13 +45,13 @@
 
 [RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
 
-## Monitoring systems
+## Monitoring Systems
 
 [Grafana](grafana.md) | The open source analytics & monitoring solution for every database
 
 [Prometheus](prometheus.md) | An open-source monitoring system
 
-## Network
+## Networks
 
 [Pi-hole](pihole.md) | In addition to blocking advertisements, Pi-hole has an informative Web interface that shows stats on all the domains being queried on your network
 
