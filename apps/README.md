@@ -33,3 +33,5 @@
 [Wait-for Script(Tools)](wait-for.md) | Wait-for script
 
 [RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
+
+[Wiki.js](wiki-js.md) | Powerful and extensible open source Wiki software
