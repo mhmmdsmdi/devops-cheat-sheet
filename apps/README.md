@@ -31,3 +31,5 @@
 [Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
 
 [Wait-for Script(Tools)](wait-for.md) | Wait-for script
+
+[RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
