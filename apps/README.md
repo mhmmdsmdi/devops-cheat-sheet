@@ -1,37 +1,65 @@
 # Applications
 
-[Passbolt](passbolt.md) | Password management tools
+## Docker
 
 [Portainer](portainer.md) | GUI for kubernates and docker
 
-[OpenKM](openkm-ce.md) | Knowledge management
+[Watchtower](watchtower.md) | A container-based solution for automating Docker container base image updates
 
-[Ghost](ghost.md) | Simple blog creator
+[Wait-for Script(Tools)](wait-for.md) | Wait-for script
 
-[Uptime Kuma](uptime-kuma.md) | Uptime Kuma is an easy-to-use self-hosted monitoring tool.
+## Databases
+
+[PostgreSQL](postgresql.md) | Open source object-relational database
 
 [InfluxDB](influxdb.md) | InfluxDB is an open source time series database for recording metrics, events, and analytics.
 
 [MariaDB](mariadb.md) | One of the most popular open source relational databases
 
-[Heimdall](heimdall.md) | An elegant solution to organize all your web applications
+[Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
+
+## Documentation and Wiki
+
+[Wiki.js](wiki-js.md) | Powerful and extensible open source Wiki software
+
+[OpenKM](openkm-ce.md) | Knowledge management
+
+## Log Managers
+
+[Seq](seq.md) | The self-hosted search, analysis, and alerting server
+
+## Messaging Queues
+
+[RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
+
+## Monitoring systems
 
 [Grafana](grafana.md) | The open source analytics & monitoring solution for every database
 
 [Prometheus](prometheus.md) | An open-source monitoring system
 
-[NextCloud](nextcloud.md) | The most popular on-premises content collaboration platform you can download
+## Network
 
 [Pi-hole](pihole.md) | In addition to blocking advertisements, Pi-hole has an informative Web interface that shows stats on all the domains being queried on your network
 
-[Watchtower](watchtower.md) | A container-based solution for automating Docker container base image updates
+[Uptime Kuma](uptime-kuma.md) | Uptime Kuma is an easy-to-use self-hosted monitoring tool.
 
-[Seq](seq.md) | The self-hosted search, analysis, and alerting server
+## Clouds
 
-[Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
+[NextCloud](nextcloud.md) | The most popular on-premises content collaboration platform you can download
 
-[Wait-for Script(Tools)](wait-for.md) | Wait-for script
+## Dashboards
 
-[RabbitMQ](rabbitmq.md) | A webinar on high availability and data safety in messaging
+[Heimdall](heimdall.md) | An elegant solution to organize all your web applications
 
-[Wiki.js](wiki-js.md) | Powerful and extensible open source Wiki software
+## Security
+
+[Passbolt](passbolt.md) | Password management tools
+
+- [ ] Vaultwarden
+
+## CMS
+
+[Ghost](ghost.md) | Simple blog creator
+
+- [ ] Wordpress

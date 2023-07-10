@@ -1,4 +1,4 @@
-# PostgreSql
+# PostgreSql - Open source object-relational database
 
 ## Docker Compose
 
