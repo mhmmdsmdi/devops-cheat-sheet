@@ -1,8 +1,8 @@
 # Applications
 
 - [Applications](#applications)
-  - [Automation \& Orchestration](#automation--orchestration)
   - [Docker](#docker)
+  - [Automation \& Orchestration](#automation--orchestration)
   - [Databases](#databases)
   - [Wiki \& Knowledge Base](#wiki--knowledge-base)
   - [Distributed messaging](#distributed-messaging)
@@ -26,6 +26,12 @@
   - [Tools \& Helpers](#tools--helpers)
   - [Resources](#resources)
 
+## Docker
+
+- [Portainer](portainer.md) - GUI for kubernates and docker
+- [Watchtower](watchtower.md) - A container-based solution for automating Docker container base image updates
+- [Wait-for Script(Tools)](wait-for.md) - Wait-for script
+
 ## Automation & Orchestration
 
 *Tools for automation, orchestration, deployment, provisioning and configuration management.*
@@ -35,12 +41,6 @@
 - Chef - Automate infrastructure and applications.
 - Terraform - use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.
 - Score - Open Source developer-centric and platform-agnostic workload specification.
-
-## Docker
-
-- [Portainer](portainer.md) - GUI for kubernates and docker
-- [Watchtower](watchtower.md) - A container-based solution for automating Docker container base image updates
-- [Wait-for Script(Tools)](wait-for.md) - Wait-for script
 
 ## Databases
 
