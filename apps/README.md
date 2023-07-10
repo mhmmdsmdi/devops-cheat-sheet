@@ -27,3 +27,5 @@
 [Watchtower](watchtower.md) | A container-based solution for automating Docker container base image updates
 
 [Seq](seq.md) | The self-hosted search, analysis, and alerting server
+
+[Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
