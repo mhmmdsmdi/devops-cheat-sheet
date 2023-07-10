@@ -6,12 +6,4 @@
 
 ## Tasks
 
-- [ ] Watchtower
-- [ ] Sql Server
-- [ ] Mongo Express
-- [ ] RabbitMQ
-- [ ] SEQ
-- [ ] wiki.js
-- [ ] Uptime-Kuma
-- [ ] pgAdmin 4
 - [ ] MeshCentral
