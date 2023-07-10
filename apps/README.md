@@ -7,6 +7,7 @@
   - [Documentation and Wiki](#documentation-and-wiki)
   - [Distributed messaging](#distributed-messaging)
   - [Observability \& Monitoring](#observability--monitoring)
+  - [Service Discovery \& Service Mesh](#service-discovery--service-mesh)
   - [Networks](#networks)
   - [Cloud Platforms](#cloud-platforms)
   - [Dashboards](#dashboards)
@@ -43,11 +44,13 @@
   - [PostgreSQL](postgresql.md) | Open source object-relational database
   - [MariaDB](mariadb.md) | One of the most popular open source relational databases
   - MySQL | Open-source relational database management system.
-
 - Non-relational (NoSQL)
   - MongoDb | General purpose, document-based, distributed database built for modern applications.
   - [Mongo Express](mongo-express.md) | Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
   - [InfluxDB](influxdb.md) | InfluxDB is an open source time series database for recording metrics, events, and analytics.
+  - Elasticsearch | Distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
+  - Apache HBase | Distributed, versioned, non-relational database.
+  - Rethinkdb | Open-source database for the realtime web
   - Key-Value
     - Redis | In-memory data structure store, used as a database, cache and message broker.
     - Leveldb | Fast key-value storage library.
@@ -70,11 +73,20 @@
 - [Prometheus](prometheus.md) | An open-source monitoring system
 - Logs Management
   - [Seq](seq.md) | The self-hosted search, analysis, and alerting server
+  - Logstash | Collect, parse, transform logs.
+  - Kibana | Explore, visualize, discover data.
+  - Graylog | Free and open source log management.
 - Status
   - [Uptime Kuma](uptime-kuma.md) | Uptime Kuma is an easy-to-use self-hosted monitoring tool.
   - Instatus | Quick and beautiful status page.
   - StatusPal | Communicate incidents and maintenance effectively with a beautiful hosted status page.
   - Cachet | Beautiful and powerful open source status page system.
+
+## Service Discovery & Service Mesh
+
+- Consul | Connect and secure any service.
+- Serf | Decentralized cluster membership, failure detection, and orchestration.
+- Zookeeper | Centralized service for configuration, naming, providing distributed synchronization, and more.
 
 ## Networks
 
